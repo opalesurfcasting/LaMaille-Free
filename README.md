@@ -1,4 +1,4 @@
-![LOGO](http://www.opalesurfcasting.net/IMG/cache-128x128/icon_android_lamaille_alpha_128-72-128x128.png)
+[![LOGO](http://www.opalesurfcasting.net/IMG/cache-128x128/icon_android_lamaille_alpha_128-72-128x128.png)](http://www.opalesurfcasting.net/lamaille/rubrique201.html)
 # LaMaille pour la pêche en mer - Version gratuite
 
 LaMaille est une application Android à destination des pratiquants de la pêche en mer de loisir en France.
