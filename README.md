@@ -2,7 +2,9 @@
 
 LaMaille est une application Android à destination des pratiquants de la pêche en mer de loisir en France.
 
-Elle est développée afin de faciliter la diffusion des connaissances nécessaires à l'application de la législation qui réglemente cette activité.
+Elle est développée afin de faciliter l'accès à la législation qui réglemente cette activité.
+
+![LOGO](http://www.opalesurfcasting.net/IMG/cache-128x128/icon_android_lamaille_alpha_128-72-128x128.png)
 
 ## Téléchargements
 ### Version stable
