@@ -15,6 +15,7 @@ Elle est développée afin de faciliter la diffusion des connaissances nécessai
 [La documentation peut-être trouvée ici](http://www.opalesurfcasting.net/lamaille/rubrique201.html)
 
 ## Changelog
+[Changelog](CHANGELOG.md)
 
 ## Signaler un disfonctionnement/ Suggérer une modification
 Le meilleur moyen est d'utiliser l'outil de [suivi de bug](https://github.com/opalesurfcasting/LaMaille-Free/issues)
