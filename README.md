@@ -15,8 +15,8 @@ Elle est développée afin de faciliter l'accès à la législation qui régleme
 ## Support
 [La documentation peut-être trouvée ici](http://www.opalesurfcasting.net/lamaille/rubrique201.html)
 
-## Changelog
-[Changelog](CHANGELOG.md)
+## Historique
+[Historique des versions](CHANGELOG.md)
 
 ## Signaler un disfonctionnement/ Suggérer une modification
 Le meilleur moyen est d'utiliser l'outil de [suivi de bug](https://github.com/opalesurfcasting/LaMaille-Free/issues)
