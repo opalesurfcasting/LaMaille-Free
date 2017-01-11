@@ -16,7 +16,7 @@ Elle est développée afin de faciliter l'accès à la législation qui régleme
 [La documentation peut-être trouvée ici](http://www.opalesurfcasting.net/lamaille/rubrique201.html)
 
 - [Généralités](http://www.opalesurfcasting.net/lamaille/lamaille_-_une_application_android_pour_ne_pas_oublier_la_maille_article3004.html)
-- [Comment activer l’affichage des photographies](http://www.opalesurfcasting.net/lamaille/comment_activer_l_affichage_des_photographies_dans_lamaille_article3260.html)
+- [Comment activer l’affichage des photographies ?](http://www.opalesurfcasting.net/lamaille/comment_activer_l_affichage_des_photographies_dans_lamaille_article3260.html)
 
 ## Historique
 [Historique des versions](CHANGELOG.md)
