@@ -12,6 +12,9 @@ Elle est développée afin de faciliter l'accès à la législation qui régleme
 ### Version beta
 - [LaMaille-Free - Google Play](https://play.google.com/apps/testing/net.opalesurfcasting.lamaille)
 
+## Démo
+- [LaMaille-Free - Démo web](https://lamaille.opalesurfcasting.net/)
+
 ## Support
 [La documentation peut-être trouvée ici](http://www.opalesurfcasting.net/lamaille/rubrique201.html)
 
