@@ -12,3 +12,7 @@
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
 - Improved : Private metrics : let user choice on how to send data : None (not optin), WIFI only or no matter (use available connection). https://github.com/piwik/piwik-sdk-android/pull/136
+
+#On the road - prospection - sandbox
+- Identification keys for species
+- Apply legislation to territory - local laws - geographical data - point in polygon - with respect on privacy
