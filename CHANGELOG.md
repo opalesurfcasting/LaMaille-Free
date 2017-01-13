@@ -4,7 +4,7 @@
 
 ##LaMaille-Free [v1.1.033] 29.12.2016 - stable
 - Added : Private metrics on picture display, ie time to display in ms
-- Added : Privacy management and bandwith used/management - User may join to volontair and send anonymous data for added metrics - Data are collected through PIWIK - https://neptune.opalesurfcasting.net
+- Added : Privacy management and bandwith used/management - User may join to volontair and send anonymous data for added metrics - Data are collected through PIWIK - https://neptune.opalesurfcasting.net - Volontair user may check which datas are send on previous URL frontpage. 
 - Improved : Setting interface : Optin, join volontair to help to improved picture display features.
 
 ##LaMaille-Free [v1.1.034] 05.01.2017 - beta
