@@ -1,6 +1,8 @@
 # Changelog
 - Dernière version stable : 1.1.033 (54)
+- Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
 - Dernière version beta : 1.1.034 (55)
+- Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ##LaMaille-Free [v1.1.033] 29.12.2016 - stable
 - Added : Private metrics on picture display, ie time to display in ms
