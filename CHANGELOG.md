@@ -9,12 +9,17 @@
 - Improved : display for species with bag limit (PMA).
 - Improved : display for species with limited fishing dates.
 - Added : Private metrics on picture display, ie time to display in ms
-- Added : Privacy management and bandwith used/management - User may join to volonteers and send anonymous data for added metrics
-- Data are collected through PIWIK.
-- LRU logic : Data timestamp must be less than 24h00 and/or be less than 4 Mo - about 2 Mo JSON compressed POST - Bulktracking.
-- Added : Setting interface : Optout (default). Optin, join volonteers to help to improve picture display features + send data when WIFI. Optin + always send data. Choice is made in one list and in one click.
+- Added : Private metrics : privacy management and bandwith used/management - User may join to volonteers and send anonymous data for added metrics
+  - Data are collected through PIWIK.
+  - LRU logic : Data timestamp must be less than 24h00 and/or be less than 4 Mo - about 2 Mo JSON compressed POST - Bulktracking.
+- Added : Private metrics : setting interface : Optout (default). Optin, join volonteers to help to improve picture display features + send data when WIFI. Optin + always send data. Choice is made in one list and in one click.
+- Modified : handle devices from API 10 to API 25
+- Modified : switch from Fresco 1.0.0 to 1.0.1
+- Modified : switch from OkHttp 3.01 to 3.6.0
+- Modified : switch pictures download to HTTP2 when device API handle it
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
+ - Planned : use of piwik-android-sdk 2.0
  
 #On the road - prospection - sandbox
 - Identification keys for species
