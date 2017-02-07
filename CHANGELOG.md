@@ -21,6 +21,7 @@
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - Planned : improved UI to download/cache pictures
+ - Planned : improved general UI to display legal datas
  
 #On the road - prospection - sandbox
 - Identification keys for species
