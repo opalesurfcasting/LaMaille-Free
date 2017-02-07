@@ -15,11 +15,11 @@
 - Added : Private metrics : setting interface : Optout (default). Optin, join volonteers to help to improve picture display features + send data when WIFI. Optin + always send data. Choice is made in one list and in one click.
 - Modified : handle devices from API 10 to API 25
 - Modified : switch from Fresco 1.0.0 to 1.0.1
-- Modified : switch from OkHttp 3.0.1 to 3.6.0
+- Modified : switch from OkHttp 3.0.1 to 3.6.0 https://github.com/facebook/fresco/issues/1648
 - Modified : switch pictures download to HTTP2 when device API handle it
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
- - Planned : use of piwik-android-sdk 2.0
+ - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - Planned : improved UI to download/cache pictures
  
 #On the road - prospection - sandbox
