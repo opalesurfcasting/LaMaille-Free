@@ -5,7 +5,9 @@
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ##LaMaille-Free [v1.1.036] 06.02.2017 - stable
-- Modified : apply new legal statement in seabass *Dicentrarchus labrax* french leasure sea fishing
+- Modified : apply new legal statement in seabass *Dicentrarchus labrax* french leasure sea fishing.
+- Improved : display for species with bag limit (PMA).
+- Improved : display for species with limited fishing dates.
 - Added : Private metrics on picture display, ie time to display in ms
 - Added : Privacy management and bandwith used/management - User may join to volonteers and send anonymous data for added metrics
 - Data are collected through PIWIK.
