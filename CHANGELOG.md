@@ -15,7 +15,7 @@
 - Added : Private metrics : setting interface : Optout (default). Optin, join volonteers to help to improve picture display features + send data when WIFI. Optin + always send data. Choice is made in one list and in one click.
 - Modified : handle devices from API 10 to API 25
 - Modified : switch from Fresco 1.0.0 to 1.0.1
-- Modified : switch from OkHttp 3.01 to 3.6.0
+- Modified : switch from OkHttp 3.0.1 to 3.6.0
 - Modified : switch pictures download to HTTP2 when device API handle it
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
