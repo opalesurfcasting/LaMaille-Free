@@ -22,6 +22,7 @@
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - Planned : improved UI to download/cache pictures
  - Planned : improved general UI to display legal datas
+ - Planned : first tests to apply local legislation
  
 #On the road - prospection - sandbox
 - Identification keys for species
