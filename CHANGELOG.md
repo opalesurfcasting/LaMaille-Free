@@ -1,7 +1,7 @@
 # Changelog
 - Dernière version stable : 1.1.036 (57)
 - Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
-- Dernière version beta : 1.1.037 (58)
+- Dernière version beta : 1.1.038 (59)
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ##LaMaille-Free [v1.1.036] 06.02.2017 - stable
@@ -18,9 +18,9 @@
 - Modified : switch from OkHttp 3.0.1 to 3.6.0 https://github.com/facebook/fresco/issues/1648
 - Modified : switch pictures download to HTTP2 when device API handle it
 
-##LaMaille-Free [v1.1.037] 15.02.2017 - beta
-- Modified : switch from Fresco 1.0.1 to 1.1.0
-- Modified : App-Indexing : switch to Firebase App-Indexing 10.0.1
+##LaMaille-Free [v1.1.038] 16.02.2017 - beta
+- Modified : removed all Firebase, Google Play Services depencies to keep API 10 devices not deprecated with next releases (https://firebase.googleblog.com/2016/11/google-play-services-and-firebase-for-android-will-support-api-level-14-at-minimum.html). In app textual suggestions when search with Google on device will not work anymore.
+- Removed : setting interface : checkbox to enable Google textual suggestions on in app searches
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
