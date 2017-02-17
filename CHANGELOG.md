@@ -1,10 +1,10 @@
 # Changelog
-- Dernière version stable : 1.1.036 (57)
+- Dernière version stable : 1.1.038 (59)
 - Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
-- Dernière version beta : 1.1.038 (59)
+- Dernière version beta : none released for the moment
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
-##LaMaille-Free [v1.1.036] 06.02.2017 - stable
+##LaMaille-Free [v1.1.038] 17.02.2017 - stable
 - Modified : apply new legal statement in seabass *Dicentrarchus labrax* french leasure sea fishing.
 - Improved : display for species with bag limit (PMA).
 - Improved : display for species with limited fishing dates.
@@ -14,13 +14,11 @@
   - LRU logic : Data timestamp must be less than 24h00 and/or be less than 4 Mo - about 2 Mo JSON compressed POST - Bulktracking.
 - Added : Private metrics : setting interface : Optout (default). Optin, join volonteers to help to improve picture display features + send data when WIFI. Optin + always send data. Choice is made in one list and in one click.
 - Modified : handle devices from API 10 to API 25
-- Modified : switch from Fresco 1.0.0 to 1.0.1
+- Modified : switch from Fresco 1.0.1 to 1.1.0
 - Modified : switch from OkHttp 3.0.1 to 3.6.0 https://github.com/facebook/fresco/issues/1648
 - Modified : switch pictures download to HTTP2 when device API handle it
-
-##LaMaille-Free [v1.1.038] 16.02.2017 - beta
-- Modified : removed all Firebase, Google Play Services depencies to keep API 10 devices not deprecated with next releases (https://firebase.googleblog.com/2016/11/google-play-services-and-firebase-for-android-will-support-api-level-14-at-minimum.html). In app textual suggestions when search with Google on device will not work anymore.
-- Removed : setting interface : checkbox to enable Google textual suggestions on in app searches
+- Modified : removed all Firebase, Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
+- Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
