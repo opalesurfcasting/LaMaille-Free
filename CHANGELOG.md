@@ -17,7 +17,7 @@
 - Modified : switch from Fresco 1.0.1 to 1.1.0
 - Modified : switch from OkHttp 3.0.1 to 3.6.0 https://github.com/facebook/fresco/issues/1648
 - Modified : switch pictures download to HTTP2 when device API handle it
-- Modified : removed all Firebase, Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
+- Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
 ##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
