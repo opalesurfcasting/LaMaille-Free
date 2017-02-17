@@ -20,6 +20,7 @@ Elle est développée afin de faciliter l'accès à la législation qui régleme
 
 - [Généralités](http://www.opalesurfcasting.net/lamaille/lamaille_-_une_application_android_pour_ne_pas_oublier_la_maille_article3004.html)
 - [Comment activer l’affichage des photographies ?](http://www.opalesurfcasting.net/lamaille/comment_activer_l_affichage_des_photographies_dans_lamaille_article3260.html)
+- [Politique de confidentialité et volontariat pour le recueil de statistiques techniques](http://www.opalesurfcasting.net/lamaille/politique_de_confidentialite_de_lamaille_et_recueil_volontaire_de_statistiques_pour_l_amelioration_de_l_application_article3276.html)
 
 ## Historique
 [Historique des versions](CHANGELOG.md)
