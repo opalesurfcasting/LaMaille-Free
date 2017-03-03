@@ -1,7 +1,7 @@
 # Changelog
 - Dernière version stable : 1.1.038 (59)
 - Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
-- Dernière version beta : none released for the moment
+- Dernière version beta : 1.1.040 (61)
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ##LaMaille-Free [v1.1.038] 17.02.2017 - stable
@@ -20,7 +20,10 @@
 - Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
-##LaMaille-Free [v1.1.03n] not released yet - in progress - beta
+##LaMaille-Free [v1.1.040] 27.02.2017 - beta
+- improved : app package size
+
+##LaMaille-Free [v1.1.04n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - Planned : improved UI to download/cache pictures
  - Planned : improved general UI to display legal datas
