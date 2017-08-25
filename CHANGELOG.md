@@ -4,7 +4,7 @@
 - Dernière version beta : 1.1.041 (62)
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
-##LaMaille-Free [v1.1.038] 17.02.2017 - stable
+## LaMaille-Free [v1.1.038] 17.02.2017 - stable
 - Modified : apply new legal statement in seabass *Dicentrarchus labrax* french leasure sea fishing.
 - Improved : display for species with bag limit (PMA).
 - Improved : display for species with limited fishing dates.
@@ -20,7 +20,7 @@
 - Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
-##LaMaille-Free [v1.1.041] 26.08.2017 - beta
+## LaMaille-Free [v1.1.041] 26.08.2017 - beta
 - improved : app package size
 - Modified : switch from Fresco 1.1.0 to 1.5.0
 - Modified : switch from OkHttp 3.6.0 to 3.8.0 https://github.com/facebook/fresco/pull/1874
@@ -28,12 +28,12 @@
 - Add one species and picture : Callianasse - *Pestarella tyrrhena*
 - Begin Android O - Api 26 - support
 
-##LaMaille-Free [v1.1.04n] not released yet - in progress - beta
+## LaMaille-Free [v1.1.04n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - In progress : improved UI to download/cache pictures
  - In tests : improved general UI to display legal datas https://github.com/facebook/litho https://code.facebook.com/posts/531104390396423/components-for-android-a-declarative-framework-for-efficient-uis/ https://code.facebook.com/posts/1187475984695956/open-sourcing-litho-a-declarative-ui-framework-for-android/
  - In tests : first tests to apply local legislation : add open source and private geolocation
  
-#On the road - prospection - sandbox
+# On the road - prospection - sandbox
 - Identification keys for species
 - Apply legislation to territory - local laws - geographical data - point in polygon - with respect on privacy - in use web implementation : http://www.opalesurfcasting.net/tableaux_de_bord/rubrique190.html
