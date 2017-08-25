@@ -1,7 +1,7 @@
 # Changelog
 - Dernière version stable : 1.1.038 (59)
 - Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
-- Dernière version beta : 1.1.040 (61)
+- Dernière version beta : 1.1.041 (62)
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ##LaMaille-Free [v1.1.038] 17.02.2017 - stable
@@ -20,14 +20,19 @@
 - Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
-##LaMaille-Free [v1.1.040] 27.02.2017 - beta
+##LaMaille-Free [v1.1.041] 26.08.2017 - beta
 - improved : app package size
+- Modified : switch from Fresco 1.1.0 to 1.5.0
+- Modified : switch from OkHttp 3.6.0 to 3.8.0 https://github.com/facebook/fresco/pull/1874
+- Modified : use HSTS (https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security ) for picture download and stats : https://neptune.opalesurfcasting.net
+- Add one species and pictures
+- Begin Android O - Api 26 - support
 
 ##LaMaille-Free [v1.1.04n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
- - Planned : improved UI to download/cache pictures
- - Planned : improved general UI to display legal datas https://github.com/facebook/litho https://code.facebook.com/posts/531104390396423/components-for-android-a-declarative-framework-for-efficient-uis/ https://code.facebook.com/posts/1187475984695956/open-sourcing-litho-a-declarative-ui-framework-for-android/
- - Planned : first tests to apply local legislation
+ - In progress : improved UI to download/cache pictures
+ - In tests : improved general UI to display legal datas https://github.com/facebook/litho https://code.facebook.com/posts/531104390396423/components-for-android-a-declarative-framework-for-efficient-uis/ https://code.facebook.com/posts/1187475984695956/open-sourcing-litho-a-declarative-ui-framework-for-android/
+ - In tests : add open source and private geolocation
  
 #On the road - prospection - sandbox
 - Identification keys for species
