@@ -25,7 +25,7 @@
 - Modified : switch from Fresco 1.1.0 to 1.5.0
 - Modified : switch from OkHttp 3.6.0 to 3.8.0 https://github.com/facebook/fresco/pull/1874
 - Modified : use HSTS (https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security ) for picture download and stats : https://neptune.opalesurfcasting.net
-- Add one species and pictures
+- Add one species and picture : Callianasse - *Pestarella tyrrhena*
 - Begin Android O - Api 26 - support
 
 ##LaMaille-Free [v1.1.04n] not released yet - in progress - beta
