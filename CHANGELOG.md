@@ -1,7 +1,7 @@
 # Changelog
 - Dernière version stable : 1.1.038 (59)
 - Use it : https://play.google.com/store/apps/details?id=net.opalesurfcasting.lamaille
-- Dernière version beta : 1.1.041 (62)
+- Dernière version beta : 1.1.042 (63)
 - Try in dev new features : https://play.google.com/apps/testing/net.opalesurfcasting.lamaille 
 
 ## LaMaille-Free [v1.1.038] 17.02.2017 - stable
@@ -20,19 +20,20 @@
 - Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
-## LaMaille-Free [v1.1.041] 26.08.2017 - beta
+## LaMaille-Free [v1.1.042] 29.08.2017 - beta
 - improved : app package size
 - Modified : switch from Fresco 1.1.0 to 1.5.0
 - Modified : switch from OkHttp 3.6.0 to 3.8.0 https://github.com/facebook/fresco/pull/1874
+- Modified : switch from Guava 18.0 to 20.0 https://github.com/google/guava/issues/2926
 - Modified : use HSTS (https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security ) for picture download and stats : https://neptune.opalesurfcasting.net
-- Add one species and picture : Callianasse - *Pestarella tyrrhena*
+- Added : one species and picture - Callianasse - *Pestarella tyrrhena*
+- Added : apply local legislation : add open source and private geolocation - don't use Google Play Services - https://mapzen.com/blog/lets-get-lost/ - nothing is collected nor done for the moment
 - Begin Android O - Api 26 - support
 
 ## LaMaille-Free [v1.1.04n] not released yet - in progress - beta
  - Planned : use of piwik-android-sdk 2.0 https://github.com/piwik/piwik-sdk-android/pull/148
  - In progress : improved UI to download/cache pictures
  - In tests : improved general UI to display legal datas https://github.com/facebook/litho https://code.facebook.com/posts/531104390396423/components-for-android-a-declarative-framework-for-efficient-uis/ https://code.facebook.com/posts/1187475984695956/open-sourcing-litho-a-declarative-ui-framework-for-android/
- - In tests : apply local legislation : add open source and private geolocation - don't use Google Play Services - https://mapzen.com/blog/lets-get-lost/
  - In tests : apply local legislation : add Geoserver layers - https://github.com/osmdroid/osmdroid/tree/feature/%23177
  
 ## On the road - prospection - sandbox
