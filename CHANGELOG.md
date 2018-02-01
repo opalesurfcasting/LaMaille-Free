@@ -38,4 +38,4 @@
  
 ## On the road - prospection - sandbox
 - Identification keys for species
-- Apply legislation to territory - local laws - geographical data - point in polygon - with respect on privacy - in use web implementation : http://www.opalesurfcasting.net/tableaux_de_bord/rubrique190.html
+- Apply legislation to territory - local laws - geographical data - point in polygon - with respect on privacy - in use web implementation : https://www.opalesurfcasting.net/droits-et-devoirs/tableaux-de-bord/
