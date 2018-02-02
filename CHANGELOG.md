@@ -20,6 +20,11 @@
 - Modified : removed Google Play Services depencies to keep API 10 devices not deprecated with next releases. In app textual suggestions when search with Google on device will not work anymore.
 - Removed : setting interface : checkbox to enable Google textual suggestions on in app searches. Not in use anymore.
 
+## LaMaille-Free [v1.1.043] 02.02.2018 - next stable - not yet released
+- Modified : seabass (02/2018) and Swordfish (03/2017) legislation
+- In progress : upgrade dev environment
+- In progress : handle last Fresco sources : https://github.com/facebook/fresco/issues/2041 - https://github.com/facebook/fresco/issues/2040
+
 ## LaMaille-Free [v1.1.042] 29.08.2017 - beta
 - improved : app package size
 - Modified : switch from Fresco 1.1.0 to 1.5.0
