@@ -15,6 +15,9 @@ Java, C/C++ .
 ### Version beta
 - [LaMaille-Free - Google Play](https://play.google.com/apps/testing/net.opalesurfcasting.lamaille)
 
+### Tous les téléchargements/installations possibles (depuis Android 2.3 jusqu'à ...) :
+- [LaMaille-Free - Hub](https://lamaille.opalesurfcasting.net/)
+
 ## Hub - Centralisation des informations
 - [LaMaille-Free - Hub](https://lamaille.opalesurfcasting.net/)
 
