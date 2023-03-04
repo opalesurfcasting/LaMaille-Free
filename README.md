@@ -15,7 +15,8 @@ Java, C/C++ .
 ### Version beta
 - [LaMaille-Free - Google Play](https://play.google.com/apps/testing/net.opalesurfcasting.lamaille)
 
-### Tous les téléchargements/installations possibles (depuis Android 2.3 jusqu'à ...) :
+### Tous les téléchargements/installations possibles (depuis Android 2.3 jusqu'à Android 13) :
+*LaMaille est fonctionnelle et compatible avec plus de 20 000 modèles de téléphones Android embarquant Android 2.3 à 13.*
 - [LaMaille-Free - Hub](https://lamaille.opalesurfcasting.net/)
 
 ## Hub - Centralisation des informations
